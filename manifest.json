@@ -1,7 +1,7 @@
 {
 	"id": "canvas-grid-lines",
 	"name": "Canvas Grid Lines",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"minAppVersion": "0.15.0",
 	"description": "Adds grid lines",
 	"author": "Kishan Patel",
